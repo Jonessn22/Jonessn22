@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Stephanie (very unique name, I know :)
+- 👀 I’m interested in using pictures to create order out of chaos and using technology automate solutions to complex problems
+- 🌱 I’m currently learning data science!
+- 📫 How to reach me ... stephanie.nicole.jones78@gmail.com
