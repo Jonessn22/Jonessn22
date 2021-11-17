@@ -1,4 +1,12 @@
 - 👋 Hi, I’m Stephanie
-- 👀 I’m interested in: --> using technology to automate solutions to complex problems
-- 🌱 I’m currently learning data science!
-- 📫 How to reach me ... stephanie.nicole.jones78@gmail.com     
+
+- 🌱 I'm currently a data science student @ Codeup
+
+- 💖
+  - All things analog
+  - Anything creative
+
+- 📚
+  - Naked Statistics
+  - Ace the Data Science Interview
+  - Ada Twist, Scientist
