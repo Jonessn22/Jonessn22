@@ -1,8 +1,8 @@
-- 👋  Hi, I’m Stephanie
-- 🌱  I'm currently a data science student @ Codeup
+👋  Hi, I’m Stephanie
+-I'm currently a data science student @ Codeup
+
 - 📚
   - Naked Statistics
-  - Ace the Data Science Interview
   - Ada Twist, Scientist
 - 💖
   - All things analog
