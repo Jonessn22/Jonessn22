@@ -1,3 +1,9 @@
+<p align=”center”>
+  
+<img width="887" alt="Screen Shot 2022-02-17 at 1 22 51 PM" src="https://user-images.githubusercontent.com/90301250/156547852-b7a17779-0367-409d-9b8d-5658ecbec0c0.png">
+  
+</p>
+
 👋  Hi, I’m Stephanie and I am a Data Scientist.
 
 - 🎒 #learning
@@ -12,6 +18,3 @@
 - 💖 #iLove
   - All things analog
   - Anything creative
-
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=stephanie-jones78&theme=blueberry_duo&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
